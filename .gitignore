@@ -1,0 +1,26 @@
+# Python
+__pycache__/
+*.py[cod]
+venv/
+.venv/
+env/
+
+# Django
+db.sqlite3
+media/
+
+# Secrets
+.env
+.env.*
+!.env.example
+
+# Node.js
+node_modules/
+dist/
+build/
+
+# IDE
+.vscode/
+
+# Archives
+*.zip
